@@ -1,0 +1,8 @@
+h1. This is the data for Steve Yen's github.com blog
+
+It is automatically transformed by "Jekyll":http://github.com/mojombo/jekyll into a static site whenever we push this repository to GitHub.
+
+h1. License
+
+All directories are MIT licenses, and some were based on the original Jekyll work and blog by Tom Preston-Warner. Feel free to use the HTML and CSS as you please. If you do use them, a link back to http://github.com/mojombo/jekyll would be appreciated, but is not required.
+
